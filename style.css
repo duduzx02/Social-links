@@ -106,4 +106,15 @@ section a{
     gap: 15px;
 }
 
+footer {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background: #7200be;
+    width: 100%;
+}
 
+footer a {
+    color: black;
+}
